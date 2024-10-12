@@ -59,6 +59,7 @@
 ### Sérgio Godinho 
 
 *Intro*
+
     {C Em Am Dm} x2 
 
 *Vs*
@@ -68,6 +69,7 @@
     {Eb Bb Db Bb} x2 {1. G7}] x2 
 
 *2.*
+
     C F 
     {Am Bb C F} x2 
     Cm D7 G 
@@ -165,6 +167,11 @@
     {Amaj7 G#m F#m} x2 
     Amaj7 G#7 C#m7 F#m B7 F E 
 
+| | |
+| - | - |
+| ``G#m`` | ``x66400`` |
+| ``F#m`` | ``x44200`` |
+
 ----
 
 # Não Venhas Tarde
@@ -200,7 +207,7 @@
 
 *Vs x2*
 
-    Gm (D>Db>C>) G7/B(G7) Cm Cm7/Bb F7/A
+    Gm (D>Db>C>|G>A>Bb>C>) G7/B(G7) Cm Cm7/Bb F7/A
     (F>F#>) Gm Gm7/F Em7b5 A7 D Eb D
 
 *Chorus*
@@ -218,7 +225,7 @@
 
     Cm Cm7/Bb F7/A (F>F#>) Gm Gm7/F
     EbMaj7 (EbMaj7/D) Cm Cm7/Bb F7/A
-    Eb(#4) D Eb D
+    Ebmaj7(#4) D Eb D
     Gm
 
 
