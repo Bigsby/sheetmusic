@@ -24,7 +24,7 @@
 | ``A7``    | ``X02020`` |
 
 
----
+-------------------------------- 
 
 # O Primeiro Dia
 ### Sérgio Godinho 
@@ -53,7 +53,7 @@
     {Eb Bb Cm F} x2 
     Eb F G 
 
-----
+-------------------------------- 
 
 # Com Um Brilhozinho Nos Olhos
 ### Sérgio Godinho 
@@ -79,7 +79,7 @@
 
     {G C} x3 G G7 
 
-----
+-------------------------------- 
 
 # O Bairro do Amor
 ### Jorge Palma 
@@ -100,7 +100,7 @@
 
 *Intro into verse*
 
-----
+-------------------------------- 
 
 # Cantigas Do Maio
 ### Zeca Afonso 
@@ -119,7 +119,7 @@
 
     {Em G B7} x
 
-----
+-------------------------------- 
 
 # Primeiro Beijo
 ### Rui Veloso
@@ -148,7 +148,7 @@
 
 *Chorus x2*
 
-----
+-------------------------------- 
 
 # Porto Côvo
 ### Rui Veloso 
@@ -172,7 +172,7 @@
 | ``G#m`` | ``x66400`` |
 | ``F#m`` | ``x44200`` |
 
-----
+-------------------------------- 
 
 # Não Venhas Tarde
 ### Carlos Ramos
@@ -186,7 +186,7 @@
     (F7) Bb7 Eb Fm Bb7 Eb
     (F7) Bb7 Eb Eb7>Ab Bb7 Eb
 
-----
+-------------------------------- 
 
 # Tudo Isto É Fado
 ### Amália Rodrigues
@@ -200,7 +200,7 @@
     D B7 Em A7
     D B7 Em Em7b5 D A7 D
 
-----
+-------------------------------- 
 
 # Gente da Minha Terra
 ### Mariza
@@ -227,8 +227,6 @@
     EbMaj7 (EbMaj7/D) Cm Cm7/Bb F7/A
     Ebmaj7(#4) D Eb D
     Gm
-
-
 
 -------------------------------- 
 
@@ -323,4 +321,41 @@
     Em7b5 Eb7b5 Dm+ C#dim
     Cm7 C#dim Bb/D Ebmaj7 Cm7 Am6+ D7b9
     Gm A/G Ab/G Gm
+
+-------------------------------- 
+
+# Amar Pelos Dois
+### Salvador Sobral
+
+*Intro
+
+    Bbmaj7 A7 Dm7 G7 Gm7 C
+
+*V1 e V2*
+    
+    {Fmaj7 Em7b5 Dm7 G7 Gm7 C Fmaj7} x2
+    F7
+
+*Bridge*
+
+    Bbmaj7 A7 Dm7 Gm7 C7
+    Bbmaj7 A7 Dm7 G7 Gm7 C7 Fmaj7 F7
+
+*Instrumental*
+
+    Bbmaj7 A7 Dm7 G7 Gm7 C7 Fmaj7 F7
+
+*Bridge
+
+    Bbmaj7 A7 Dm7 Gm7 C7
+    Bbmaj7 A7 Dm7 G7 Gm7 C7 Fmaj7
+
+*V3*
+
+    Fmaj7 Em7b5 Dm7 G7 Gm7 C7 Am D7b9
+    Bmaj7 Bdim F/C (C#>) D9 Gm7 C7b9 Fmaj7 (C7b9 Fmaj7)
+
+
+
+
 
