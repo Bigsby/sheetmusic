@@ -327,7 +327,7 @@
 # Amar Pelos Dois
 ### Salvador Sobral
 
-*Intro
+*Intro*
 
     Bbmaj7 A7 Dm7 G7 Gm7 C
 
@@ -345,7 +345,7 @@
 
     Bbmaj7 A7 Dm7 G7 Gm7 C7 Fmaj7 F7
 
-*Bridge
+*Bridge*
 
     Bbmaj7 A7 Dm7 Gm7 C7
     Bbmaj7 A7 Dm7 G7 Gm7 C7 Fmaj7
@@ -355,7 +355,32 @@
     Fmaj7 Em7b5 Dm7 G7 Gm7 C7 Am D7b9
     Bmaj7 Bdim F/C (C#>) D9 Gm7 C7b9 Fmaj7 (C7b9 Fmaj7)
 
+-------------------------------- 
+
+# Por Um Triz
+### Carolina Deslandes
+
+*Intro*
+
+    G C5
+
+*Vs*
+
+    {G C5} x2
+    C G
+    G C5 G
+
+*Chorus*
+
+    Em G/D C B7
+    G Am C B7 (D#dim)
+    Em D#dim G/D C#dim
+    C G Am7 D7 G
+
+*v3*
+
+*Chorus*  x2
 
 
-
+    
 
