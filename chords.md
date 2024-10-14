@@ -381,6 +381,23 @@
 
 *Chorus*  x2
 
+-------------------------------- 
+
+# Passou Por Mim e Sorriu
+### Deolinda
+
+*Intro vs*
+
+    Em A7 C G
+
+*Bridge*
+
+    A7 C G
+    A7 C Cm G
+
+
+
+*Intro*
 
     
 
