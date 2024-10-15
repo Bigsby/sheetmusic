@@ -1,7 +1,7 @@
 This is the list of tunes:
 
 ### A
-- ["Águas de Março"](chords.md#águas-de-março) - Tom Jobim
+- ["Águas de Março"](chords.md#águas-de-março) - ["lyrics"](lyrics.md#águas-de-março)  - Tom Jobim
 - ["Amar Pelos Dois"](chords.md#amar-pelos-dois) - Salvador Sobral
 - ["A Noite Passsada"](chords.md#a-noite-passada) - Sérgio Godinho
 
