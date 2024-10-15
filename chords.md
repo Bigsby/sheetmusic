@@ -332,7 +332,7 @@
     Bbmaj7 A7 Dm7 G7 Gm7 C
 
 *V1 e V2*
-    
+
     {Fmaj7 Em7b5 Dm7 G7 Gm7 C Fmaj7} x2
     F7
 
@@ -395,9 +395,102 @@
     A7 C G
     A7 C Cm G
 
+-------------------------------- 
 
+# Águas de Março
+### Tom Jobim
 
 *Intro*
 
-    
+    Bb7/Ab
+
+*Seq1*
+
+    Bb7/Ab Gm6 Ebm6/Gb Bbmaj9/F
+    E9 Ebmaj9 Ab13 Bbmaj7
+
+*Seq2(.1)*
+
+    Ab/Bb>Ab(b5)/Bb Em7b5(/C7/Bb) Ebm69 Bbmaj7
+
+*Interlude*
+
+    E/D C#/B 
+
+*Seq3*
+
+    Bbm7 C7/Bb Cbmaj7/Bb Bb
+
+*Seq4*
+
+    Bb13(sus4)>Bb13 Ebmaj9 Ab13* Bbmaj7
+
+*Outro*
+
+    Bb69
+
+
+
+| | |
+| - | - |
+| ``Bb7/Ab``    | ``4X333X`` |
+| ``Gm6``       | ``3X233X`` |
+| ``Ebm6/Gb``   | ``2X131X`` |
+| ``Bbmaj7/F``  | ``1X021X`` |
+| ``E9``        | ``X7677X`` |
+| ``Ebmaj9``    | ``X6576X`` |
+| ``Ab13``      | ``4X456X`` |
+| ``Bbmaj``     | ``6X776X`` |
+| ``Ab/Bb``     | ``6X654X`` |
+| ``Ab(b5)/Bb`` | ``6X653X`` |
+| ``Em7b5``     | ``X7878X`` |
+| ``C7/Bb``     | ``X1201X`` |
+| ``Ebm69``     | ``X6456X`` |
+| ``E/D``       | ``AX888X`` |
+| ``C#/B``      | ``7X666X`` |
+| ``Bbm7``      | ``6X666X`` |
+| ``C7/Bb``     | ``6X555X`` |
+| ``Cbmaj/Bb``  | ``6X444X`` |
+| ``Bb``        | ``6X333X`` |
+| ``Bb13sus4``  | ``XX6886`` |
+| ``Bb13``      | ``XX6786`` |
+| ``Ab13*``     | ``XX4566`` |
+| ``Bb69``      | ``655566`` |
+
+## Order
+
+*Intro*
+
+*Seq1*, *Seq2* x2
+
+*Seq1*, *Seq1/2*, *Seq2*
+
+
+
+*Seq1*, *Seq2*
+
+*Seq1/2*, *Seq2.1*
+
+*Seq1*
+
+
+*Intelude*
+
+*Seq1*, *Seq1/2*, *Seq2*
+
+*Seq3*, *Seq1/2*
+
+*Seq3* x2
+
+*Seq4* x2
+
+*Seq2*
+
+*Seq3* x3
+
+*Outro*
+
+
+
+
 
