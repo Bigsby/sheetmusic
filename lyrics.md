@@ -1,4 +1,4 @@
-# Á©guas de Março
+# Águas de Março
 ### Tom Jobim
 
 É o pau, é a pedra, é o fim do caminho\
